@@ -1,2 +1,4 @@
 flask
 pytest
+psycopg2-binary
+flask-sqlalchemy
